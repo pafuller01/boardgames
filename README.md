@@ -1,1 +1,1 @@
-Python based Board Games. 
+Python based Board Games test.
